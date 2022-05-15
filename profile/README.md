@@ -1,4 +1,4 @@
-## Hi
+# Hi
 readme be like
 
 This is an organization made for the Lindsey family, the organization was made by [@Oren-Lindsey](https://github.com/oren-lindsey/)
